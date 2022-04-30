@@ -1,0 +1,43 @@
+
+Formulário de Sugestões 01 - simples
+
+Para melhor atender nossos alunos, pedimos para que 
+se tiver alguma sugestão de melhoria para nossa plataforma de ensino,
+preencha os campos abaixo corretamente e deixe sua mensagem. 
+
+Nome Completo:[preencher]
+
+Turma: ( ) ENIAC / ( ) LOVELACE / ( )TURING
+ou
+
+Turma: {lista de seleção com os 3 nomes}
+
+Qual sua sugestão de melhoria para nossa plataforma?
+
+Mensagem: [preencher]
+
+{Enviar}  {Limpar}
+
+///////////////////////////////////////////////////
+
+Formulário de Sugestões 02 - melhorado
+Para melhor atender nossa equipe de colaboradores e alunos, pedimos para que 
+se tiver alguma sugestão de melhoria para nossa plataforma de ensino, preencha 
+os campos abaixo corretamente e deixe sua mensagem. 
+
+Cargo: ( )Aluno ( )Professor
+
+Nome Completo :[preencher]
+
+se Professor > Matéria:[preencher]
+se Aluno > Turma: [preencher]
+
+Qual sua sugestão de melhoria para nossa plataforma?
+
+Mensagem: [preencher]
+
+Clique no envelope abaixo para registrar sua resposta.
+
+{envelope.png}  {lixo.png}
+
+///////////////////////////////////////////////////
